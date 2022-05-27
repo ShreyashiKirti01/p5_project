@@ -1,0 +1,35 @@
+body{
+    background: linear-gradient(#1D4350 40%,#A43931 100%);
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Lobster', cursive;
+    font-family: 'Pacifico', cursive;
+}
+
+h3{
+background-color: rgb(73, 73, 132);
+height: 40px;
+text-align: center;
+width: 50%;
+border-radius: 5%;
+letter-spacing: 2px;
+color: rgb(255, 255, 255);
+}
+
+canvas{
+margin-left: 370px;
+}
+
+button{
+    font-family: 'Dancing Script', cursive;
+font-family: 'Lobster', cursive;
+
+background-color: #50735b;
+width: 30pc;
+height: 30px;
+padding: 3px;
+color: #170020;
+font-size: 19px;
+border-radius: 30px;
+text-align: center;
+padding-bottom: 4px;
+}
